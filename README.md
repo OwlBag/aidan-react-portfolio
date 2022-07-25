@@ -13,20 +13,8 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
 
-  ## Installation
-  N/A
-
-  ## Usage
-  N/A
-
   ## License
   This project uses the [The Unlicense](https://choosealicense.com/licenses/unlicense/) license
-
-  ## Contributing
-  N/A
-
-  ## Tests
-  N/A
   
   ## Questions
   Contact me:
