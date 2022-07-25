@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import React, { useState } from "react";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
@@ -47,6 +48,7 @@ function App() {
         {pageSelected==='Portfolio' && <Portfolio></Portfolio>}
         {pageSelected==='Contact' && <Contact></Contact>}
         {pageSelected==='Resume' && <Resume></Resume>}
+        <Footer></Footer>
       </main>
     </div>
   );
