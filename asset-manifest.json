@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/aidans-react-portfolio/static/css/main.b8aeb5c7.css",
-    "main.js": "/aidans-react-portfolio/static/js/main.87ad7510.js",
-    "static/js/787.a2cb61a6.chunk.js": "/aidans-react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/run-buddy-demo.png": "/aidans-react-portfolio/static/media/run-buddy-demo.130e1ae0c3a889bb20dc.png",
-    "static/media/group-project-2-demo.png": "/aidans-react-portfolio/static/media/group-project-2-demo.f5e5096a12b278c1f75b.png",
-    "static/media/sludge-central-demo.png": "/aidans-react-portfolio/static/media/sludge-central-demo.d8614a38f8c50a417478.png",
-    "static/media/me.jpg": "/aidans-react-portfolio/static/media/me.79634f5b997b941dbe73.jpg",
-    "static/media/group-project-1-demo.png": "/aidans-react-portfolio/static/media/group-project-1-demo.5ca7493d10bfa5f141bc.png",
-    "static/media/logo.svg": "/aidans-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/aidans-react-portfolio/index.html",
-    "main.b8aeb5c7.css.map": "/aidans-react-portfolio/static/css/main.b8aeb5c7.css.map",
-    "main.87ad7510.js.map": "/aidans-react-portfolio/static/js/main.87ad7510.js.map",
-    "787.a2cb61a6.chunk.js.map": "/aidans-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/aidan-react-portfolio/static/css/main.b8aeb5c7.css",
+    "main.js": "/aidan-react-portfolio/static/js/main.28df7b51.js",
+    "static/js/787.a2cb61a6.chunk.js": "/aidan-react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/run-buddy-demo.png": "/aidan-react-portfolio/static/media/run-buddy-demo.130e1ae0c3a889bb20dc.png",
+    "static/media/group-project-2-demo.png": "/aidan-react-portfolio/static/media/group-project-2-demo.f5e5096a12b278c1f75b.png",
+    "static/media/sludge-central-demo.png": "/aidan-react-portfolio/static/media/sludge-central-demo.d8614a38f8c50a417478.png",
+    "static/media/me.jpg": "/aidan-react-portfolio/static/media/me.79634f5b997b941dbe73.jpg",
+    "static/media/group-project-1-demo.png": "/aidan-react-portfolio/static/media/group-project-1-demo.5ca7493d10bfa5f141bc.png",
+    "static/media/logo.svg": "/aidan-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aidan-react-portfolio/index.html",
+    "main.b8aeb5c7.css.map": "/aidan-react-portfolio/static/css/main.b8aeb5c7.css.map",
+    "main.28df7b51.js.map": "/aidan-react-portfolio/static/js/main.28df7b51.js.map",
+    "787.a2cb61a6.chunk.js.map": "/aidan-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8aeb5c7.css",
-    "static/js/main.87ad7510.js"
+    "static/js/main.28df7b51.js"
   ]
 }
