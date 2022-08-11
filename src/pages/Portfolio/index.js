@@ -4,6 +4,7 @@ import runBuddyImg from "../../assets/screenshots/run-buddy-demo.png";
 import sludgeImg from "../../assets/screenshots/sludge-central-demo.png";
 import group1Img from "../../assets/screenshots/group-project-1-demo.png";
 import group2Img from "../../assets/screenshots/group-project-2-demo.png";
+import group3Img from "../../assets/screenshots/group-project-3-demo.png";
 
 function Portfolio() {
   const projects = [
@@ -37,6 +38,14 @@ function Portfolio() {
       image: group2Img,
       link: "https://bestest-reads.herokuapp.com/",
       repo: "https://github.com/tmenture/Better-Reads"
+    },
+    {
+      name: "Pokemon Teambuilder",
+      description:
+        "Third group project for the Rutgers Coding Bootcamp. React app which allows users to log in and create Pokemon teams ",
+      image: group3Img,
+      link: "https://safe-tundra-43948.herokuapp.com/",
+      repo: "https://github.com/OwlBag/pokemon-teambuilder-final-project"
     },
   ];
 
